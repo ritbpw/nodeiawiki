@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ritbpw/nodeiawiki/issues"
   },
-  "homepage": "https://github.com/ritbpw/nodeiawiki#readme"
+  "homepage": "https://github.com/ritbpw/nodeiawiki#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
